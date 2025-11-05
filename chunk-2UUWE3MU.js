@@ -1,0 +1,1 @@
+var e={production:!0,offline:!0,tenant:void 0,apiUrl:"https://api-lms.lamdem.co.il/v1",filesUrl:"https://d.lamdem.co.il/",rtl:!0,goolgePlacesApiKey:"",captchaKey:void 0,notAuthorizedPath:"/auth/login",loggerMinLevel:1,logging:{minLevel:1},debugUser:{}};export{e as a};
